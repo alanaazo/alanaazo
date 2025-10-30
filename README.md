@@ -10,11 +10,13 @@ Before that, I spent over two years as a **Risk Data Analyst at Alfa-Bank**, the
 I hold an **M.Sc. in Data Science** from the **University of Barcelona**, where my research explored **news recommendation systems and evaluation metrics** (RecSys Challenge 2024 case study).  
 
 Here, you’ll find university projects related to:
+
 ⚙️ Credit default swaps prediction
 🧠 Machine learning and recommender systems  
 💬 NLP
 
 A few facts about me:  
+
 🚀 Work on end-to-end trading algorithm production pipelines  
 📈 Experienced in convex optimization, CVaR frameworks, credit risk models (Probability of Default, Loss Given Default, Exposure At Default)
 🎓 M.Sc. in Data Science (University of Barcelona), B.Sc. in Economics (HSE University)  
